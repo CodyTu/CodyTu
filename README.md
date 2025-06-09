@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+## 🛠️ Language and Tools
+<br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,pytyon,c#,php,nodejs,react,mongodb,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,d3,git,figma,mysql,sqlite" />
+  </p>
+<hr>
 <!--
 **CodyTu/CodyTu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
