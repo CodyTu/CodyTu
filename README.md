@@ -2,8 +2,8 @@
 ## 🛠️ Language and Tools
 <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,pytyon,c#,php,nodejs,react,mongodb,postgres,prisma" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,d3,git,figma,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=java,py,cs,php,nodejs,react,mongodb,swift,apple,androidstudio,kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,figma,mysql,sqlite,r,unity" />
   </p>
 <hr>
 <!--
