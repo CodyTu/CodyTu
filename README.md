@@ -7,8 +7,8 @@
   </p>
 <hr>
 
-## ⚡️ Stats
 <!--
+## ⚡️ Stats
 <br>
 
 <div align=center>
